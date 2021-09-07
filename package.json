@@ -1,0 +1,19 @@
+{
+  "name": "@timber1900/ffmpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timber1900/simple-ffmpeg.git"
+  },
+  "author": "Timber1900",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Timber1900/simple-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/Timber1900/simple-ffmpeg#readme"
+}
