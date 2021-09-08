@@ -1,5 +1,5 @@
 {
-  "name": "@timber1900/ffmpeg",
+  "name": "basic-ffmpeg",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
